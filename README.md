@@ -1,4 +1,4 @@
-# esse é um exercício do curso de java do Nelio ALves. aqui esta a minha solução ☺
+# esse é um exercício do [curso de java do Nelio Alves](https://www.udemy.com/course/java-curso-completo). aqui esta a minha solução ☺
 
 ## enunciado:
 
